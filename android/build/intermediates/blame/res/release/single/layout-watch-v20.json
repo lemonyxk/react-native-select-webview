@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lemo/git/TestAppDev/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/lemo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19def22149fcd2157d4a43a7f31a4831/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/lemo/git/TestAppDev/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/lemo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19def22149fcd2157d4a43a7f31a4831/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lemo/git/TestAppDev/node_modules/react-native-webview/android/build/intermediates/res/merged/release/xml/rn_dev_preferences.xml",
+        "source": "/Users/lemo/.gradle/caches/transforms-1/files-1.1/react-native-0.59.9.aar/c39c2ceb2f2ed490200c228c83533699/res/xml/rn_dev_preferences.xml"
+    },
+    {
+        "merged": "/Users/lemo/git/TestAppDev/node_modules/react-native-webview/android/build/intermediates/res/merged/release/xml/file_provider_paths.xml",
+        "source": "/Users/lemo/git/TestAppDev/node_modules/react-native-webview/android/src/main/res/xml/file_provider_paths.xml"
+    }
+]
